@@ -2,6 +2,8 @@
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 I am a third year Data Science candidate at [University of Economics Ho Chi Minh City](https://ueh.edu.vn/en/), VietNam.
 
+I strongly believe in the power of teamwork and thrive when working with others to achieve shared goals.
+
 **My Reseach Interest**:
 - Classification
 - Clustering
